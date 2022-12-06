@@ -1,0 +1,92 @@
+.homeContainer{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    /* align-items: left;
+} */}
+
+.vertical{
+    width: 100%;
+    height: auto;
+}
+.HCPcard{
+    display: flex;
+    margin: 20px 0;
+    /* padding: auto; */
+   width: 90%;
+    /* height: 220px; */
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: space-between;
+    
+   
+}
+.hcpInfo{
+    align-items: center ;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.img{
+    width:"50%";
+    height: 200px;
+    padding-left: 6em;
+    padding-right: 2em;
+    padding-bottom: 4em;
+}
+
+.HCPName{
+    color: #196ecf;
+    font-weight: 600;
+}
+
+.detailscon{
+    color: black;
+    font-weight: 600;
+    font-size: large;
+}
+.detailscon1{
+    color: black;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.notfound{
+    font-size: 1.25rem;
+    text-align: center;
+    font-weight: 500;
+    color: #196ecf;
+}
+
+.Offc{
+    background-color: #f2f2f2;
+    color : green;
+    height: 8em;
+    margin: auto;
+    width: 80%;
+    padding-left: 6em;
+    padding-top: 3em;
+    border-bottom: solid;
+    border-bottom-color: rgb(179, 171, 171);
+}
+
+
+.PName{
+    color: #196ecf;
+    font-weight: 800;
+    
+    
+
+}
+
+
+
+.alignright{
+    color: #196ecf;
+    padding-right: 10em;
+    font-weight: 500;
+}
